@@ -1,5 +1,5 @@
 build: 
-	javac Server.java NumberServer.java
+	javac Server.java NumberServer.java SearchEngine.java
 
 run:
-	java NumberServer 4000
+	java SearchEngine 4002
